@@ -1,0 +1,74 @@
+[
+  {
+    "doc_id": "01-2022-12-01-kurulus-ilani",
+    "stage": "clean",
+    "input_tokens": 4798,
+    "output_tokens": 4056,
+    "predict_time_s": 60.85,
+    "cost_usd": 0.014567
+  },
+  {
+    "doc_id": "02-2023-06-21-esas-sozlesme-degisikligi-sermaye-artirimi",
+    "stage": "clean",
+    "input_tokens": 8765,
+    "output_tokens": 5791,
+    "predict_time_s": 85.78,
+    "cost_usd": 0.021756
+  },
+  {
+    "doc_id": "03-2023-10-10-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi",
+    "stage": "clean",
+    "input_tokens": 634,
+    "output_tokens": 443,
+    "predict_time_s": 6.73,
+    "cost_usd": 0.001646
+  },
+  {
+    "doc_id": "04-2023-12-29-esas-sozlesme-degisikligi-sermaye-artirimi",
+    "stage": "clean",
+    "input_tokens": 869,
+    "output_tokens": 677,
+    "predict_time_s": 9.36,
+    "cost_usd": 0.002465
+  },
+  {
+    "doc_id": "05-2024-09-13-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi",
+    "stage": "clean",
+    "input_tokens": 3021,
+    "output_tokens": 1121,
+    "predict_time_s": 24.09,
+    "cost_usd": 0.004874
+  },
+  {
+    "doc_id": "06-2024-10-30-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi",
+    "stage": "clean",
+    "input_tokens": 2279,
+    "output_tokens": 711,
+    "predict_time_s": 43.47,
+    "cost_usd": 0.003273
+  },
+  {
+    "doc_id": "07-2024-11-05-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi",
+    "stage": "clean",
+    "input_tokens": 3373,
+    "output_tokens": 936,
+    "predict_time_s": 54.02,
+    "cost_usd": 0.004495
+  },
+  {
+    "doc_id": "08-2025-09-11-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi-yonetim-kurulu-ic-yonergesi",
+    "stage": "clean",
+    "input_tokens": 2671,
+    "output_tokens": 2480,
+    "predict_time_s": 15.86,
+    "cost_usd": 0.008776
+  },
+  {
+    "doc_id": "09-2025-12-22-denetci-degisikligi",
+    "stage": "clean",
+    "input_tokens": 852,
+    "output_tokens": 569,
+    "predict_time_s": 15.84,
+    "cost_usd": 0.002133
+  }
+]

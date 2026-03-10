@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "01-2022-12-01-kurulus-ilani",
+    "input_tokens": 4822,
+    "output_tokens": 3804,
+    "predict_time_s": 30.8,
+    "cost_usd": 0.013823
+  },
+  {
+    "doc_id": "02-2023-06-21-esas-sozlesme-degisikligi-sermaye-artirimi",
+    "input_tokens": 6557,
+    "output_tokens": 333,
+    "predict_time_s": 14.31,
+    "cost_usd": 0.004278
+  },
+  {
+    "doc_id": "03-2023-10-10-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi",
+    "input_tokens": 1209,
+    "output_tokens": 410,
+    "predict_time_s": 12.8,
+    "cost_usd": 0.001834
+  },
+  {
+    "doc_id": "04-2023-12-29-esas-sozlesme-degisikligi-sermaye-artirimi",
+    "input_tokens": 1443,
+    "output_tokens": 609,
+    "predict_time_s": 12.92,
+    "cost_usd": 0.002548
+  },
+  {
+    "doc_id": "05-2024-09-13-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi",
+    "input_tokens": 1887,
+    "output_tokens": 243,
+    "predict_time_s": 18.06,
+    "cost_usd": 0.001672
+  },
+  {
+    "doc_id": "06-2024-10-30-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi",
+    "input_tokens": 1477,
+    "output_tokens": 454,
+    "predict_time_s": 13.8,
+    "cost_usd": 0.0021
+  },
+  {
+    "doc_id": "07-2024-11-05-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi",
+    "input_tokens": 1702,
+    "output_tokens": 270,
+    "predict_time_s": 19.27,
+    "cost_usd": 0.001661
+  },
+  {
+    "doc_id": "08-2025-09-11-yonetim-kurulu-atama-gorevden-alma-temsilci-ve-yetkili-kisi-atanmasi-yonetim-kurulu-ic-yonergesi",
+    "input_tokens": 3246,
+    "output_tokens": 259,
+    "predict_time_s": 18.11,
+    "cost_usd": 0.0024
+  },
+  {
+    "doc_id": "09-2025-12-22-denetci-degisikligi",
+    "input_tokens": 1335,
+    "output_tokens": 477,
+    "predict_time_s": 8.99,
+    "cost_usd": 0.002099
+  }
+]

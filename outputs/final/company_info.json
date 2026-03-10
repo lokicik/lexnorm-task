@@ -1,0 +1,100 @@
+{
+  "ticaret_unvani": "PARLA ENERJİ YATIRIMLARI ANONİM ŞİRKETİ",
+  "sirket_turu": "Anonim Şirket",
+  "mersis_numarasi": "0721091699100001",
+  "ticaret_sicil_mudurlugu": "T.C. Denizli Ticaret Sicili Mudurlugu",
+  "ticaret_sicil_numarasi": "49606",
+  "adres": "Adalet Mah. Hasan Gönüllü Bul. No: 15 İç Kapı No: 1 Merkezefendi / Denizli",
+  "mevcut_sermaye": "161.852.160,00 TL",
+  "kurulus_tarihi": "1.12.2022",
+  "denetci": "PWC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK ANONİM ŞİRKETİ",
+  "source_map": {
+    "ticaret_unvani": {
+      "publication_date": "2025-12-22",
+      "gazette_number": "11484",
+      "pdf_path": "data\\9) 22-12-2025 Denetci Degisikligi.pdf",
+      "pages": [
+        1
+      ],
+      "provider": "mistral"
+    },
+    "sirket_turu": {
+      "publication_date": "2025-12-22",
+      "gazette_number": "11484",
+      "pdf_path": "data\\9) 22-12-2025 Denetci Degisikligi.pdf",
+      "pages": [
+        1
+      ],
+      "provider": "mistral"
+    },
+    "adres": {
+      "publication_date": "2025-12-22",
+      "gazette_number": "11484",
+      "pdf_path": "data\\9) 22-12-2025 Denetci Degisikligi.pdf",
+      "pages": [
+        1
+      ],
+      "provider": "mistral"
+    },
+    "mersis_numarasi": {
+      "publication_date": "2022-12-01",
+      "gazette_number": "10716",
+      "pdf_path": "data\\1) 01-12-2022 Kurulus Ilani.pdf",
+      "pages": [
+        1,
+        2
+      ],
+      "provider": "mistral"
+    },
+    "ticaret_sicil_mudurlugu": {
+      "publication_date": "2022-12-01",
+      "gazette_number": "10716",
+      "pdf_path": "data\\1) 01-12-2022 Kurulus Ilani.pdf",
+      "pages": [
+        1,
+        2
+      ],
+      "provider": "mistral"
+    },
+    "ticaret_sicil_numarasi": {
+      "publication_date": "2022-12-01",
+      "gazette_number": "10716",
+      "pdf_path": "data\\1) 01-12-2022 Kurulus Ilani.pdf",
+      "pages": [
+        1,
+        2
+      ],
+      "provider": "mistral"
+    },
+    "kurulus_tarihi": {
+      "publication_date": "2022-12-01",
+      "gazette_number": "10716",
+      "pdf_path": "data\\1) 01-12-2022 Kurulus Ilani.pdf",
+      "pages": [
+        1,
+        2
+      ],
+      "provider": "mistral"
+    },
+    "denetci": {
+      "publication_date": "2023-06-21",
+      "gazette_number": "10857",
+      "pdf_path": "data\\2) 21-06-2023 Esas Sozlesme Degisikligi - Sermaye Artirimi.pdf",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "provider": "mistral"
+    },
+    "mevcut_sermaye": {
+      "publication_date": "2023-12-29",
+      "gazette_number": "10990",
+      "pdf_path": "data\\4) 29-12-2023 Esas Sozlesme Degisikligi - Sermaye Artirimi.pdf",
+      "pages": [
+        1
+      ],
+      "provider": "mistral"
+    }
+  }
+}

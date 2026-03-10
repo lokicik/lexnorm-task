@@ -1,0 +1,41 @@
+[
+  {
+    "name_or_title": "AYDEM HOLDING ANONIM SIRKETI",
+    "role": null,
+    "representative": null,
+    "role_end_date": "8.9.2028",
+    "appointed_ttsg_date": "2025-09-11",
+    "appointed_ttsg_number": "11413",
+    "pdf_link": "data\\8) 11-09-2025 Yonetim Kurulu Atama Gorevden Alma, Temsilci ve Yetkili Kisi Atanmasi, Yonetim Kurulu Ic Yonergesi.pdf",
+    "status": "active",
+    "source": {
+      "publication_date": "2025-09-11",
+      "gazette_number": "11413",
+      "pdf_path": "data\\8) 11-09-2025 Yonetim Kurulu Atama Gorevden Alma, Temsilci ve Yetkili Kisi Atanmasi, Yonetim Kurulu Ic Yonergesi.pdf",
+      "pages": [
+        1
+      ],
+      "provider": "mistral"
+    }
+  },
+  {
+    "name_or_title": "ZEKERIYA AKCAN",
+    "role": null,
+    "representative": null,
+    "role_end_date": "3.3.2028",
+    "appointed_ttsg_date": "2024-09-13",
+    "appointed_ttsg_number": "11164",
+    "pdf_link": "data\\5) 13-09-2024 Yonetim Kurulu Atama Gorevden Alma, Temsilci ve Yetkili Kisi Atanmasi.pdf",
+    "status": "active",
+    "source": {
+      "publication_date": "2024-09-13",
+      "gazette_number": "11164",
+      "pdf_path": "data\\5) 13-09-2024 Yonetim Kurulu Atama Gorevden Alma, Temsilci ve Yetkili Kisi Atanmasi.pdf",
+      "pages": [
+        1,
+        2
+      ],
+      "provider": "mistral"
+    }
+  }
+]
